@@ -59,10 +59,10 @@ public class BolivianosFrame extends JFrame {
 	private static JLabel lblInicio;
 	
 	/**
-	 * Dentro de este método constructor que creamos toda la parte gráfica del programa que
-	 * contiene: JLabels para enseñar textos JTextField para que el usuario ingrese
-	 * texto interactuando con el programa Un teclado con botones que contienen
-	 * números del 0 al 9 los cuales funcionan al tener contacto con ellos se
+	 * Dentro de este método el constructor que creamos toda la parte gráfica del programa que
+	 * contiene: JLabels es para enseñar textos JTextField para que el usuario pueda ingresar
+	 * texto interactuando con el programa hay teclado con botones que contienen
+	 * números del 0 al 9 los cuales pueda funcionar al tener contacto con ellos se
 	 * escribe en el JTextField que selecciones. Botones para "Aceptar", "Borrar",
 	 * "Cancelar", "Historial" "Salir" "Depositar" "Retirar" "Cambiar contraseña"
 	 * "Transferir"
@@ -70,7 +70,7 @@ public class BolivianosFrame extends JFrame {
 	public BolivianosFrame() {
 		devuelveDatosUsuario();
 		setSize(900, 800);// definimos el tamaño de mi ventana
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // significa que al cerrar la ventana principal, la aplicación
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Significa que al cerrar la ventana principal, la aplicación
 														// finalizará su ejecución y se cerrará por completo
 		getContentPane().setBackground(new Color(37, 37, 37));
 		getContentPane().setLayout(null);
@@ -147,8 +147,8 @@ public class BolivianosFrame extends JFrame {
 
 		btn_aceptar = new JButton("Aceptar");
 		btn_aceptar.setBounds(400, 109, 89, 38);
-		btn_aceptar.addActionListener(new ActionListener() { // Añadimos un ActionListener al botón para manejar su
-																// acción
+		btn_aceptar.addActionListener(new ActionListener() { // Añadimos un ActionListener al botón para manejar su acción
+																
 			public void actionPerformed(ActionEvent e) { // Método que se ejecutará al presionar el botón
 				devuelveDatosUsuario();
 			}
