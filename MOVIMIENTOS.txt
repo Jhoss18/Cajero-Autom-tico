@@ -1,0 +1,39 @@
+--------------------------------------------
+FECHA: 2024-06-08
+HORA: 19:04:26
+N° DE CUENTA: 75131 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD:2000.0
+Se inicio sesion el: 2024-06-08 19:04:06
+Se realizo el deposito de 2000.0 Bs. a 0 Bs. su saldo actual es de: 2000.0 Bs. 2024-06-08 19:04:26
+Se realizo el deposito de 200.0 $. a 0 $. su saldo actual es de: 200.0 $. 2024-06-08 19:04:46
+Se realizo el deposito de 100.0 €. a 0 €. su saldo actual es de: 100.0 €. 2024-06-08 19:05:09
+
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-08
+HORA: 19:04:26
+N° DE CUENTA: 30646 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: 200.0
+Se inicio sesion el: 2024-06-08 19:09:35
+Se realizo el deposito de 550.0 Bs. a 0 Bs. su saldo actual es de: 550.0 Bs. 2024-06-08 19:09:48
+Se realizo el deposito de 200.0 $. a 0 $. su saldo actual es de: 200.0 $. 2024-06-08 19:10:06
+Se realizo el deposito de 100.0 €. a 0 €. su saldo actual es de: 100.0 €. 2024-06-08 19:10:23
+Se realizo el retiro de 200.0 Bs. a 550.0 Bs. su saldo actual es de: 350.0 Bs. 2024-06-08 19:11:31
+
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-08 
+HORA: 19:13:56
+N° DE CUENTA ORIGEN: 77225 
+N° DE CUENTA DESTINO: 75131 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 10.0 €
+--------------------------------------------
+--------------------------------------------
+Se inicio sesion el: 2024-06-08 19:13:56
+Se realizo el deposito de 300.0 Bs. a 0 Bs. su saldo actual es de: 300.0 Bs. 2024-06-08 19:14:04
+Se realizo el deposito de 200.0 $. a 0 $. su saldo actual es de: 200.0 $. 2024-06-08 19:14:19
+Se realizo el deposito de 50.0 €. a 0 €. su saldo actual es de: 50.0 €. 2024-06-08 19:14:28
+La transferencia de 10 €. se realizo con éxito a la cuenta 75131 , su saldo actual es de: 40.0 €. 2024-06-08 19:15:32
